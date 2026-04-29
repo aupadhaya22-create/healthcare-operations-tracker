@@ -33,15 +33,14 @@ into actionable operational insights for healthcare administrators.
 
 ## 📁 Project Structure
 
-healthcare-operations-tracker/
-├── healthcare_operations_tracker.ipynb  # Full analysis notebook
-├── healthcare_clean.csv                 # Cleaned dataset (32,636 records)
-├── state_er_wait.csv                    # ER wait times by state
-├── state_sepsis.csv                     # Sepsis compliance by state
-├── hospital_er_detail.csv               # Hospital-level detail
-├── chart_er_wait.png                    # ER wait times visualization
-├── chart_sepsis.png                     # Sepsis compliance visualization
-└── chart_kpi.png                        # KPI summary dashboard
+- 📓 `healthcare_operations_tracker.ipynb` — Full analysis notebook
+- 📊 `healthcare_clean.csv` — Cleaned dataset (32,636 records)
+- 📊 `state_er_wait.csv` — ER wait times by state
+- 📊 `state_sepsis.csv` — Sepsis compliance by state
+- 📊 `hospital_er_detail.csv` — Hospital-level detail (4,070 hospitals)
+- 🖼️ `chart_er_wait.png` — ER wait times visualization
+- 🖼️ `chart_sepsis.png` — Sepsis compliance visualization
+- 🖼️ `chart_kpi.png` — KPI summary dashboard
 
 ---
 
